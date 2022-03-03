@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m @immprasetyo
-- 👀 I’m interested in data visualization
+- 👀 I’m interested in database management and data visualization
 - 🌱 I’m currently learning SQL, Python, and R
 
 <!---
