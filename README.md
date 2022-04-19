@@ -1,5 +1,6 @@
+## Hi there <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="25" height="20" />
 
-- 👋 Hi, I’m @immprasetyo
+- 👋 I’m @immprasetyo
 - 👀 I’m interested in database management and data visualization
 - 🌱 I’m currently learning SQL, Python, and R
 
