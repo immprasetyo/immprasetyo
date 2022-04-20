@@ -1,8 +1,11 @@
-## Hi there <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="25" height="20" />
+## Hi there! <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="25" height="20" />
 
-- 👋 I’m @immprasetyo
-- 👀 I’m interested in database management and data visualization
-- 🌱 I’m currently learning SQL, Python, and R
+### This is the place where I try to figure many things out :monocle_face:
+
+Now that we have that out of the way, let me tell you a bit about myself:
+- :man_technologist: I’m @immprasetyo
+- :eyes: I’m interested in database management and data visualization
+- :seedling: I’m currently learning SQL, Python, and R
 
 <!---
 immprasetyo/immprasetyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
