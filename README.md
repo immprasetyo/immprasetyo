@@ -6,6 +6,7 @@ Now that we have that out of the way, let me tell you a bit about myself:
 - :man_technologist: I’m @immprasetyo
 - :eyes: I’m interested in database management and data visualization
 - :seedling: I’m currently learning SQL, Python, and R
+- :smiling_face_with_three_hearts: I love turning data into insights
 
 <!---
 immprasetyo/immprasetyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
