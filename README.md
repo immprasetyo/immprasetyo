@@ -9,6 +9,11 @@ Now that we have that out of the way, let me tell you a bit about myself:
 - :seedling: I’m currently learning SQL, Python, and R
 - :zany_face: Fun fact: I will think about time relativity in my spare time
 
+### Connect with me:
+[<img align="left" alt="immprasetyo | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" style="padding-right:10px;" />](https://youtube.com/channel/UCvWfjoT6akC8rdUZslq1Onw)
+
+
+
 <!---
 immprasetyo/immprasetyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
