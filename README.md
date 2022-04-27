@@ -10,6 +10,7 @@ Now that we have that out of the way, let me tell you a bit about myself:
 - :zany_face: Fun fact: I will think about time relativity in my spare time
 
 ### Connect with me:
+[<img align="left" alt="immprasetyo | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="padding-right:10px;" />](https://linkedin.com/in/imamprasetyo)
 [<img align="left" alt="immprasetyo | YouTube" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" style="padding-right:10px;" />](https://youtube.com/channel/UCvWfjoT6akC8rdUZslq1Onw)
 [<img align="left" alt="immprasetyo | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="padding-right:10px;" />](https://instagram.com/immprasetyo)
 
