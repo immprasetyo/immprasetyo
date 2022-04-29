@@ -12,6 +12,7 @@ Now that we have that out of the way, let me tell you a bit about myself:
 ### Connect with me:
 [<img align="left" alt="immprasetyo | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="padding-right:10px;" />](https://instagram.com/immprasetyo)
 [<img align="left" alt="immprasetyo | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="padding-right:10px;" />](https://twitter.com/in/imamprasetyo)
+[<img align="left" alt="immprasetyo | Stack Overflow" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" style="padding-right:10px;" />](https://stackoverflow.com/users/18983641/immprasetyo)
 [<img align="left" alt="immprasetyo | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="padding-right:10px;" />](https://linkedin.com/in/imamprasetyo)
 [<img align="left" alt="immprasetyo | YouTube" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" style="padding-right:10px;" />](https://youtube.com/channel/UCvWfjoT6akC8rdUZslq1Onw)
 
