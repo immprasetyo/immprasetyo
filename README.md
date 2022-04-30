@@ -15,6 +15,7 @@ Now that we have that out of the way, let me tell you a bit about myself:
 [<img align="left" alt="immprasetyo | Stack Overflow" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" style="padding-right:10px;" />](https://stackoverflow.com/users/18983641/immprasetyo)
 [<img align="left" alt="immprasetyo | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="padding-right:10px;" />](https://linkedin.com/in/imamprasetyo)
 [<img align="left" alt="immprasetyo | YouTube" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" style="padding-right:10px;" />](https://youtube.com/channel/UCvWfjoT6akC8rdUZslq1Onw)
+[<img align="left" alt="immprasetyo | Gmail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" style="padding-right:10px;" />](mailto:mmprsty@gmail.com)
 
 <!---
 immprasetyo/immprasetyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
