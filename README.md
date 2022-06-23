@@ -22,6 +22,7 @@ Now that we have that out of the way, let me tell you a bit about myself:
 ### Tools & Languages:
 [<img align="left" alt="immprasetyo | R" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" style="padding-right:10px;" />](https://r-project.org)
 [<img align="left" alt="immprasetyo | Python" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="padding-right:10px;" />](https://python.org)
+[<img align="left" alt="immprasetyo | MySQL" width="25px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" style="padding-right:10px;" />](https://mysql.com)
 
 
 <br />
