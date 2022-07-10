@@ -25,8 +25,9 @@ Now that we have that out of the way, let me tell you a bit about myself:
 [<img align="left" alt="immprasetyo | MySQL" width="25px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" style="padding-right:10px;" />](https://mysql.com)
 [<img align="left" alt="immprasetyo | PostgreSQL" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" style="padding-right:10px;" />](https://postgresql.org)
 [<img align="left" alt="immprasetyo | VS Code" width="25px" src="https://code.visualstudio.com/assets/images/code-stable.png" style="padding-right:10px;" />](https://code.visualstudio.com)
-[<img align="left" alt="immprasetyo | GitHub" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Font_Awesome_5_brands_github.svg" style="padding-right:10px;" />](https://github.com)
+[<img align="left" alt="immprasetyo | Metabase" width="25px" src="https://symbols.getvecta.com/stencil_88/65_metabase-icon.26a19ed6d9.svg" style="padding-right:10px;" />](https://metabase.com)
 [<img align="left" alt="immprasetyo | Microsoft Excel" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" style="padding-right:10px;" />](https://microsoft.com/en-us/microsoft-365/excel)
+[<img align="left" alt="immprasetyo | GitHub" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Font_Awesome_5_brands_github.svg" style="padding-right:10px;" />](https://github.com)
 [<img align="left" alt="immprasetyo | Tableau" width="25px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" style="padding-right:10px;" />](https://tableau.com)
 
 <br />
