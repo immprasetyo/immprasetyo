@@ -34,6 +34,9 @@ Now that we have that out of the way, let me tell you a bit about myself:
 
 ---
 
+[![immprasetyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=immprasetyo&show_icons=true&hide_border=true&theme=dracula)](https://github.com/immprasetyo)
+
+
 <!---
 immprasetyo/immprasetyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
