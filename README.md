@@ -16,8 +16,7 @@ Now that we have that out of the way, let me tell you a bit about myself:
 [<img align="left" alt="immprasetyo | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="padding-right:10px;" />](https://linkedin.com/in/imamprasetyo)
 [<img align="left" alt="immprasetyo | YouTube" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" style="padding-right:10px;" />](https://youtube.com/channel/UCvWfjoT6akC8rdUZslq1Onw)
 [<img align="left" alt="immprasetyo | Gmail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" style="padding-right:10px;" />](mailto:mmprsty@gmail.com)
-
-<br />
+   <br />
 
 ### Tools & Languages:
 [<img align="left" alt="immprasetyo | R" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" style="padding-right:10px;" />](https://r-project.org)
@@ -29,12 +28,14 @@ Now that we have that out of the way, let me tell you a bit about myself:
 [<img align="left" alt="immprasetyo | Microsoft Excel" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" style="padding-right:10px;" />](https://microsoft.com/en-us/microsoft-365/excel)
 [<img align="left" alt="immprasetyo | GitHub" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Font_Awesome_5_brands_github.svg" style="padding-right:10px;" />](https://github.com)
 [<img align="left" alt="immprasetyo | Tableau" width="25px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" style="padding-right:10px;" />](https://tableau.com)
-
-<br />
+   <br />
 
 ---
 
 [![immprasetyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=immprasetyo&show_icons=true&hide_border=true&theme=dracula)](https://github.com/immprasetyo)
+   <br />
+
+[![immprasetyo's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=immprasetyo&layout=compact)](https://github.com/immprasetyo)
 
 
 <!---
