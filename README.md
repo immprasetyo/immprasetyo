@@ -10,7 +10,7 @@ Now that we have that out of the way, let me tell you a bit about myself:
 - :zany_face: Fun fact: I will think about time relativity in my spare time
 
 ### Connect with me:
-![Gmail URL](https://img.shields.io/twitter/url?color=ea4335&label=gmail&logo=gmail&style=for-the-badge&url=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F1%2F%3Fview%3Dcm%26fs%3D1%26to%3Dmmprsty%40gmail.com%26tf%3D1)
+[![Gmail URL](https://img.shields.io/twitter/url?color=ea4335&label=gmail&logo=gmail&style=for-the-badge&url=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F1%2F%3Fview%3Dcm%26fs%3D1%26to%3Dmmprsty%40gmail.com%26tf%3D1)](https://mail.google.com/mail/u/1/?view=cm&fs=1&to=mmprsty@gmail.com&tf=1)
 
 [<img align="left" alt="immprasetyo | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="padding-right:10px;" />](https://instagram.com/immprasetyo)
 [<img align="left" alt="immprasetyo | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="padding-right:10px;" />](https://twitter.com/in/imamprasetyo)
