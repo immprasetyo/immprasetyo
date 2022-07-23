@@ -10,13 +10,13 @@ Now that we have that out of the way, let me tell you a bit about myself:
 - :zany_face: Fun fact: I will think about time relativity in my spare time
 
 ### Connect with me:
+[![YouTube URL](https://img.shields.io/twitter/url?color=%23FF0000&label=youtube&logo=youtube&logoColor=%23FF0000&style=for-the-badge&url=https%3A%2F%2Fyoutube.com%2Fchannel%2FUCvWfjoT6akC8rdUZslq1Onw)](https://youtube.com/channel/UCvWfjoT6akC8rdUZslq1Onw)
 [![Gmail URL](https://img.shields.io/twitter/url?color=ea4335&label=gmail&logo=gmail&style=for-the-badge&url=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F1%2F%3Fview%3Dcm%26fs%3D1%26to%3Dmmprsty%40gmail.com%26tf%3D1)](https://mail.google.com/mail/u/1/?view=cm&fs=1&to=mmprsty@gmail.com&tf=1)
 
 [<img align="left" alt="immprasetyo | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="padding-right:10px;" />](https://instagram.com/immprasetyo)
 [<img align="left" alt="immprasetyo | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="padding-right:10px;" />](https://twitter.com/in/imamprasetyo)
 [<img align="left" alt="immprasetyo | Stack Overflow" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" style="padding-right:10px;" />](https://stackoverflow.com/users/18983641/immprasetyo)
 [<img align="left" alt="immprasetyo | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="padding-right:10px;" />](https://linkedin.com/in/imamprasetyo)
-[<img align="left" alt="immprasetyo | YouTube" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" style="padding-right:10px;" />](https://youtube.com/channel/UCvWfjoT6akC8rdUZslq1Onw)
    <br />
 
 ### Tools & Languages:
