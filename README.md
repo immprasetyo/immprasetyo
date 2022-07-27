@@ -33,6 +33,9 @@ Now that we have that out of the way, let me tell you a bit about myself:
 
 ---
 
+[![immprasetyo's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=immprasetyo&hide_border=true&currStreakLabel=FBB741&currStreakNum=FBB741&stroke=FBB741)](https://github.com/immprasetyo)
+   <br />
+
 [![immprasetyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=immprasetyo&show_icons=true&hide_border=true&theme=dracula)](https://github.com/immprasetyo)
    <br />
 
