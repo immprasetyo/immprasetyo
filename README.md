@@ -11,7 +11,7 @@ Now that we have that out of the way, let me tell you a bit about myself:
 
 ### Connect with me:
 [![Gmail URL](https://img.shields.io/twitter/url?color=ea4335&label=gmail&logo=gmail&style=for-the-badge&url=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F1%2F%3Fview%3Dcm%26fs%3D1%26to%3Dmmprsty%40gmail.com%26tf%3D1)](https://mail.google.com/mail/u/1/?view=cm&fs=1&to=mmprsty@gmail.com&tf=1)
-[![YouTube URL](https://img.shields.io/twitter/url?label=%20YouTube&logo=YouTube&style=social&url=https%3A%2F%2Fyoutube.com%2Fchannel%2FUCvWfjoT6akC8rdUZslq1Onw)](https://youtube.com/channel/UCvWfjoT6akC8rdUZslq1Onw)
+[![YouTube URL](https://img.shields.io/twitter/url?label=%20YouTube&logo=YouTube&style=social&url=https%3A%2F%2Fyoutube.com%2Fchannel%2FUCvWfjoT6akC8rdUZslq1Onw)](https://www.youtube.com/@immprasetyo)
 
 [<img align="left" alt="immprasetyo | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="padding-right:10px;" />](https://instagram.com/immprasetyo)
 [<img align="left" alt="immprasetyo | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="padding-right:10px;" />](https://twitter.com/in/imamprasetyo)
@@ -28,7 +28,6 @@ Now that we have that out of the way, let me tell you a bit about myself:
 [<img align="left" alt="immprasetyo | GitHub" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Font_Awesome_5_brands_github.svg" style="padding-right:10px;" />](https://github.com)
 [<img align="left" alt="immprasetyo | Microsoft Excel" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" style="padding-right:10px;" />](https://microsoft.com/en-us/microsoft-365/excel)
 [<img align="left" alt="immprasetyo | Tableau" width="25px" src="https://avatars.githubusercontent.com/u/828667?s=200&v=4" style="padding-right:10px;" />](https://tableau.com)
-[<img align="left" alt="immprasetyo | Metabase" width="25px" src="https://symbols.getvecta.com/stencil_88/65_metabase-icon.26a19ed6d9.svg" style="padding-right:10px;" />](https://metabase.com)
    <br />
 
 ---
